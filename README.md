@@ -6,11 +6,11 @@
 - alu0101492513
 
 **índice**
-1. ![Rellenar cuestionario](#rellenar-el-cuestionario-github-alu-del-campus-virtual-y-recibir-el-correo-confirmándolo)
-2. ![Crear equipo](#crear-equipo-con-nombre-correcto)
-3. ![Asignación de práctica](#aceptar-la-asignación-de-la-práctica)
-4. ![Project board](#crear-un-project-board-kanban-para-este-repositorio)
-5. ![Github Backpack](#solicitar-el-github-backpack)
+1. [Rellenar cuestionario](#rellenar-el-cuestionario-github-alu-del-campus-virtual-y-recibir-el-correo-confirmándolo)
+2. [Crear equipo](#crear-equipo-con-nombre-correcto)
+3. [Asignación de práctica](#aceptar-la-asignación-de-la-práctica)
+4. [Project board](#crear-un-project-board-kanban-para-este-repositorio)
+5. [Github Backpack](#solicitar-el-github-backpack)
 
 
 ## Rellenar el cuestionario GitHub-Alu del campus virtual y recibir el correo confirmándolo
