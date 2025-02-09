@@ -22,12 +22,12 @@ A continuación he creado el equipo siguiendo el formato indicado: nombre-apelli
 
 ## Crear un project board kanban para este repositorio
 Creé el project board kanban automated asociado al repo. He rellenado los campos con los requisitos
-de la práctica y movido las issues a la columna correspondiente
+de la práctica y movido las issues a la columna correspondiente.
 
 ![project board kanban](docs/kanban_board.png)
 
 ## Solicitar el GitHub Backpack
 Solicito el Student Developer Pack. Aún no están las ventajas activas, pero tal y como se muestra
-en la siguiente imagen ya ha sido aprobada la solitud
+en la siguiente imagen, ya ha sido aprobada la solitud.
 
 ![github backpack](docs/github_student.png)
